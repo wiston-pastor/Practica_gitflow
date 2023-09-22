@@ -1,0 +1,11 @@
+body{
+    background-color: yellowgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+    margin: 40px;
+    padding: 50px;
+}
