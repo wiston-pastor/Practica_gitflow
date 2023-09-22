@@ -1,5 +1,5 @@
 body{
-    background-color: yellowgreen;
+    background-color: rgb(209, 184, 137);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -12,5 +12,26 @@ h1{
 
 .form {
     background-color: rgb(247, 163, 137);
+    margin: 0 600px;
+    border-radius: 20px;
+    border: solid 9px;
+    padding: 20px;
+        
+}
+
+form {
+    background-color: blueviolet;
+       
     
+}
+
+footer{
+    background-color: aquamarine;
+}
+
+.boton {
+    border: solid;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
 }
